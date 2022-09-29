@@ -1,0 +1,22 @@
+
+.fondo{
+    background-image: url(../img/portada2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parrafo{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.fondo2{
+
+    background-image: url(../img/portada2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
